@@ -1,0 +1,2 @@
+export const ADD_NEW_INPUT = 'ADD_NEW_INPUT'
+export const REMOVE_NEW_INPUT = 'REMOVE_NEW_INPUT'
